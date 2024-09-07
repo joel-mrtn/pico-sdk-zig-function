@@ -1,0 +1,11 @@
+.idea
+.vscode
+_deps
+cmake-*
+build
+build-*
+.DS_Store
+*.pdf
+zig-out
+*-cache
+.env
